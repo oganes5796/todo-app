@@ -1,2 +1,1 @@
-# todo-app
-go todo-app
+# Todo App
